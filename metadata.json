@@ -1,0 +1,8 @@
+{
+  "name": "Multi-modal Emotion Recognition",
+  "description": "A real-time emotion recognition app using webcam and microphone input, featuring audio-visual data fusion, live analytics, and a modern glassmorphism UI. All processing is done client-side.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
