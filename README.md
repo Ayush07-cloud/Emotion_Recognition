@@ -25,7 +25,7 @@
 - 📊 **Real-Time Visualization** - Dynamic charts, confidence meters, and emotion timelines
 - 🤖 **AI-Powered Insights** - Gemini API integration for contextual analysis
 
-### Key Highlights for Interviews
+### Key Highlights 
 ✅ **Production-Ready Code** - Clean architecture with TypeScript strict mode  
 ✅ **Real-Time Processing** - Handles high-frequency data streams efficiently  
 ✅ **Modern Tech Stack** - React 19, Vite, Google GenAI API integration  
